@@ -1,0 +1,9 @@
+README.md
+setup.py
+intellino/core/__init__.py
+intellino/core/setup.py
+intellino/intellino.egg-info/PKG-INFO
+intellino/intellino.egg-info/SOURCES.txt
+intellino/intellino.egg-info/dependency_links.txt
+intellino/intellino.egg-info/top_level.txt
+intellino/intellino.egg-info/zip-safe
